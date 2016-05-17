@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: fdec9d4711cddc4429a22ea8120a7a44
+timeCreated: 1455733132
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spaceGuy_sheet_0
+    21300002: spaceGuy_sheet_1
+    21300004: spaceGuy_sheet_2
+    21300006: spaceGuy_sheet_3
+    21300008: spaceGuy_sheet_4
+    21300010: spaceGuy_sheet_5
+    21300012: spaceGuy_sheet_6
+    21300014: spaceGuy_sheet_7
+    21300016: spaceGuy_sheet_8
+    21300018: spaceGuy_sheet_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spaceGuy_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 47
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceGuy_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 120
+        width: 53
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceGuy_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 120
+        width: 62
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceGuy_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 121
+        width: 80
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceGuy_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 121
+        width: 64
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceGuy_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 52
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceGuy_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1
+        width: 63
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceGuy_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1
+        width: 84
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceGuy_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2
+        width: 62
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spaceGuy_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 8
+        width: 53
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
